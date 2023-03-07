@@ -23,7 +23,7 @@
 + [DFS Recursion](https://github.com/Kim-Gyuri/Java_datastructure_algorithm2/blob/master/%EB%85%B8%ED%8A%B8/18.%20DFS%20Recursion.md)
 + [Graph 두 지점의 경로찾기](https://github.com/Kim-Gyuri/Java_datastructure_algorithm2/blob/master/%EB%85%B8%ED%8A%B8/19.%20Graph%EC%97%90%EC%84%9C%20%EB%91%90%20%EC%A7%80%EC%A0%90%EC%9D%98%20%EA%B2%BD%EB%A1%9C%EC%B0%BE%EA%B8%B0.md)
 + [배열을 이진트리로 만들기](https://github.com/Kim-Gyuri/Java_datastructure_algorithm2/blob/master/%EB%85%B8%ED%8A%B8/20.%20%EB%B0%B0%EC%97%B4%EC%9D%84%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-+ [이진트리를 레벨단위 리스트로 변형하기]
++ [이진트리를 레벨단위 리스트로 변형하기](https://github.com/Kim-Gyuri/Java_datastructure_algorithm2/blob/master/%EB%85%B8%ED%8A%B8/21.%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EB%A5%BC%20%EB%A0%88%EB%B2%A8%EB%8B%A8%EC%9C%84%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%B3%80%ED%98%95%ED%95%98%EA%B8%B0.md)
 + [Tree의 Balance 확인하는 방법 3가지](https://github.com/Kim-Gyuri/Java_datastructure_algorithm2/blob/master/%EB%85%B8%ED%8A%B8/22.%20Tree%EC%9D%98%20Balance%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
 + [이진트리검색 - 1 using inorder](https://github.com/Kim-Gyuri/Java_datastructure_algorithm2/blob/master/%EB%85%B8%ED%8A%B8/23.%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EA%B2%80%EC%83%89%20-%201%20using%20inorder.md)
 + [이진트리검색 - 2 without array](https://github.com/Kim-Gyuri/Java_datastructure_algorithm2/blob/master/%EB%85%B8%ED%8A%B8/24.%20%EC%9D%B4%EC%A7%84%ED%8A%B8%EB%A6%AC%EA%B2%80%EC%83%89%20-%202%20%20without%20array.md)
